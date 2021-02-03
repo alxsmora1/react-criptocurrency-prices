@@ -1,0 +1,16 @@
+body {
+    background-color: #ffffff;
+    background-image: url('./images/light.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 15px;
+}
+
+.cardBg {
+    background-color: #ffffff;
+    /*
+    background-image: url('./images/btc.jpg');
+    background-position: center;
+    background-size: cover;
+    */
+}
