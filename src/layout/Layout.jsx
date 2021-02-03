@@ -7,12 +7,12 @@ class Layout extends Component {
         return (
             <div className="container">
                 <div className="row">
-                    <CardCoin coin="ripple" />
                     <CardCoin coin="bitcoin" />
                     <CardCoin coin="ethereum" />
-                    <CardCoin coin="litecoin" />
                     <CardCoin coin="tether" />
-                    <CardCoin coin="monero" />
+                    <CardCoin coin="ripple" />
+                    <CardCoin coin="polkadot" />
+                    <CardCoin coin="cardano" />
                 </div>
             </div>
         );
